@@ -1,0 +1,702 @@
+{
+  "version": "1.0.10",
+  "fecha_publicacion": "2026-01-11T00:46:45.068Z",
+  "projects": [
+    {
+      "id": "PI-255-DICIHT-F",
+      "title": "Acciones comunitarias para la gestión de riesgos climáticos en Yamaranguila, Intibucá (2022–2023)",
+      "investigators": [
+        "Zarela Karenina Alvarado Peña",
+        "Jasmi Celestine Bautista Soto"
+      ],
+      "year": 2024,
+      "status": "Finalizado",
+      "dicith": "PI-255-DICIHT-F",
+      "area": "C. Sociales",
+      "isCIA": false
+    },
+    {
+      "id": "PI-256-DICIHT",
+      "title": "Cumplimiento de normativas en el uso de plaguicidas en actividades agrícolas del Valle de Comayagua",
+      "investigators": [
+        "Oscar Oswaldo Meza Palma",
+        "Rigoberto Funez Castro"
+      ],
+      "year": 2024,
+      "status": "En proceso",
+      "dicith": "PI-256-DICIHT",
+      "area": "Agroindustria",
+      "isCIA": false
+    },
+    {
+      "id": "PI-283-DICIHT",
+      "title": "Competitividad de empresas del municipio de Comayagua (usuarios del Aeropuerto Palmerola)",
+      "investigators": [
+        "Edelia G. Núñez",
+        "María L. Meléndez",
+        "Rubén H. Aguiluz",
+        "Himelda G. Amaya",
+        "Pedro J. Madrid",
+        "Keneht R. Rodríguez",
+        "Geovina Y. Martínez"
+      ],
+      "year": 2024,
+      "status": "Finalizado",
+      "dicith": "PI-283-DICIHT",
+      "area": "Economía",
+      "isCIA": false
+    },
+    {
+      "id": "PI-284-DICIHT",
+      "title": "Satisfacción académica durante educación en línea por COVID-19 (CURC)",
+      "investigators": [
+        "Douglas L. Amador",
+        "Marlene S. Domínguez",
+        "Dina M. López",
+        "Rolando B. Castillo"
+      ],
+      "year": 2024,
+      "status": "En proceso",
+      "dicith": "PI-284-DICIHT",
+      "area": "Educación",
+      "isCIA": false
+    },
+    {
+      "id": "PI-295-DICIHT",
+      "title": "Departamento de Agroindustria y Facultad de Química y Farmacia",
+      "investigators": [
+        "Romel A. Bonilla",
+        "Geovina Y. Martínez",
+        "Wilmer Ríos",
+        "Anahí E. Hernández",
+        "Carlos I. Roque"
+      ],
+      "year": 2024,
+      "status": "En proceso",
+      "dicith": "PI-295-DICIHT",
+      "area": "Agroindustria",
+      "isCIA": false
+    },
+    {
+      "id": "PI-353-DICIHT",
+      "title": "Sistematización y diagnóstico de calidad del agua (2010–2021) de la red municipal de Comayagua",
+      "investigators": [
+        "Sara R. Romero",
+        "Irma M. Gallardo",
+        "Wendy C. Oyuela",
+        "Simeón Fiallos"
+      ],
+      "year": 2024,
+      "status": "En proceso",
+      "dicith": "PI-353-DICIHT",
+      "area": "Ambiente",
+      "isCIA": false
+    },
+    {
+      "id": "PI-377-DICIHT",
+      "title": "Alimentación saludable, estado nutricional y actividad física en Comayagua",
+      "investigators": [
+        "Gloria C. Rodríguez",
+        "Fátima C. Banegas"
+      ],
+      "year": 2024,
+      "status": "Finalizado",
+      "dicith": "PI-377-DICIHT",
+      "area": "Salud",
+      "isCIA": false
+    },
+    {
+      "id": "PI-379-DICIHT",
+      "title": "Calidad, pertinencia y equidad del modelo educativo (percepción estudiantil y docencia en el CURC 2023)",
+      "investigators": [
+        "Marvin Obdulio Ponce"
+      ],
+      "year": 2024,
+      "status": "Finalizado",
+      "dicith": "PI-379-DICIHT",
+      "area": "Educación",
+      "isCIA": false
+    },
+    {
+      "id": "PI-382-DICIHT",
+      "title": "Competencias sobre automedicación para malaria (Charamuscas, Esquías)",
+      "investigators": [
+        "Arnold E. Houghton",
+        "Gustavo E. Suazo",
+        "Gabriela M. Bulnes",
+        "Neal A. Howell"
+      ],
+      "year": 2024,
+      "status": "Finalizado",
+      "dicith": "PI-382-DICIHT",
+      "area": "Salud",
+      "isCIA": false
+    },
+    {
+      "id": "PI-396-DICIHT",
+      "title": "Modelo de competencias para microempresarios del área de alimentos (Valle de Comayagua 2023–2024)",
+      "investigators": [
+        "Nora E. Alcántara",
+        "Gloria C. Rodríguez",
+        "María L. Meléndez",
+        "Karla M. Jiménez",
+        "José D. Gámez"
+      ],
+      "year": 2024,
+      "status": "En proceso",
+      "dicith": "PI-396-DICIHT",
+      "area": "Agroindustria",
+      "isCIA": false
+    },
+    {
+      "id": "PI-407-DICIHT",
+      "title": "Diagnóstico para apertura de carrera en lenguas extranjeras (CURC)",
+      "investigators": [
+        "Oscar Gáceres Donaire",
+        "Dunia G. Salgado"
+      ],
+      "year": 2024,
+      "status": "En proceso",
+      "dicith": "PI-407-DICITH",
+      "area": "Educación",
+      "isCIA": false
+    },
+    {
+      "id": "PI-408-DICIHT",
+      "title": "Personas con discapacidad en Comayagua (análisis 2023)",
+      "investigators": [
+        "Milthon Moisés Reyes",
+        "Carlos N. Alvarenga",
+        "Est. Julia M. Rodríguez"
+      ],
+      "year": 2024,
+      "status": "Finalizado",
+      "dicith": "PI-408-DICIHT",
+      "area": "C. Sociales",
+      "isCIA": false
+    },
+    {
+      "id": "PI-412-DICIHT",
+      "title": "Taxonomía, ecofisiología y bioquímica en tres áreas protegidas de Honduras",
+      "investigators": [
+        "Ruth K. Hernández Cibrián"
+      ],
+      "year": 2024,
+      "status": "Cancelado",
+      "dicith": "PI-412-DICIHT",
+      "area": "Ciencias Naturales",
+      "isCIA": false
+    },
+    {
+      "id": "PI-413-DICIHT",
+      "title": "Diagnóstico sobre conflictividad en el ámbito escolar (Villa de San Antonio)",
+      "investigators": [
+        "Héctor A. Castellanos",
+        "Rómulo E. García",
+        "Yamil A. Molina"
+      ],
+      "year": 2024,
+      "status": "En proceso",
+      "dicith": "PI-413-DICIHT",
+      "area": "Educación",
+      "isCIA": false
+    },
+    {
+      "id": "PI-420-DICIHT",
+      "title": "Retos y desafíos del profesorado CURC-UNAH (cumplimiento de funciones sustantivas, 2023)",
+      "investigators": [
+        "Milthon M. Reyes",
+        "Carlos N. Alvarenga"
+      ],
+      "year": 2024,
+      "status": "En proceso",
+      "dicith": "PI-420-DICIHT",
+      "area": "Educación",
+      "isCIA": false
+    },
+    {
+      "id": "PI-421-DICIHT",
+      "title": "Frontera agrícola y expansión urbana en Comayagua",
+      "investigators": [
+        "Oscar Oswaldo Meza"
+      ],
+      "year": 2024,
+      "status": "En proceso",
+      "dicith": "PI-421-DICIHT",
+      "area": "Territorio",
+      "isCIA": false
+    },
+    {
+      "id": "PI-422-DICIHT",
+      "title": "Viabilidad política del Plan de Nación y Esquema de Regionalización de Honduras",
+      "investigators": [
+        "Oscar Oswaldo Meza"
+      ],
+      "year": 2024,
+      "status": "En proceso",
+      "dicith": "PI-422-DICIHT",
+      "area": "Políticas Públicas",
+      "isCIA": false
+    },
+    {
+      "id": "PI-423-DICIHT",
+      "title": "Patrón cultural en uso de plaguicidas en distritos agrícolas del Valle de Comayagua",
+      "investigators": [
+        "Oscar O. Meza Palma",
+        "Rigoberto Funez Castro",
+        "Zarela K. Alvarado Peña"
+      ],
+      "year": 2024,
+      "status": "En proceso",
+      "dicith": "PI-423-DICIHT",
+      "area": "Agroindustria",
+      "isCIA": false
+    },
+    {
+      "id": "PI-462-DICIHT",
+      "title": "Aporte de la mujer indígena lenca ante la crisis climática",
+      "investigators": [
+        "Zarela K. Alvarado Peña",
+        "Jasmi C. Bautista Soto"
+      ],
+      "year": 2025,
+      "status": "En proceso",
+      "dicith": "PI-462-DICIHT",
+      "area": "C. Sociales",
+      "isCIA": false
+    },
+    {
+      "id": "PI-686-DICIHT",
+      "title": "Estructuras y algoritmos de redes neuronales para enseñanza matemática superior (UNAH Comayagua)",
+      "investigators": [
+        "Antonio Isain Meza",
+        "Ricardo A. Rodríguez",
+        "Ibis J. Zavala",
+        "Licza J. Discua",
+        "Jorge A. Flores",
+        "Milton O. Blanco",
+        "Carlos E. Salinas",
+        "Pamela L. Ulloa",
+        "Humberto C. García",
+        "Wilmer A. Zambrano",
+        "Elsa V. Santos",
+        "Walter A. García",
+        "Juan C. Fiallos"
+      ],
+      "year": 2025,
+      "status": "En proceso",
+      "dicith": "PI-686-DICIHT",
+      "area": "Matemática/IA",
+      "isCIA": false
+    },
+    {
+      "id": "PI-687-DICIHT",
+      "title": "Contexto sociodemográfico y servicios para personas con discapacidad (San Sebastián)",
+      "investigators": [
+        "Magda L. Amaya",
+        "Carlos N. Alvarenga",
+        "Lourdes A. González",
+        "Rubí M. Coello"
+      ],
+      "year": 2025,
+      "status": "Finalizado",
+      "dicith": "PI-687-DICIHT",
+      "area": "C. Sociales",
+      "isCIA": false
+    },
+    {
+      "id": "PI-743-DICIHT",
+      "title": "Memoria histórica del municipio de San Sebastián (registro y difusión)",
+      "investigators": [
+        "Jasmi C. Bautista Soto",
+        "Magda L. Amaya"
+      ],
+      "year": 2025,
+      "status": "En proceso",
+      "dicith": "PI-743-DICIHT",
+      "area": "Historia",
+      "isCIA": false
+    },
+    {
+      "id": "PI-794-DICIHT",
+      "title": "Empoderamiento y participación de mujeres campesinas lencas en COPUCAP (Chinacla, La Paz)",
+      "investigators": [
+        "Yensi Rossana Álvarez Vides"
+      ],
+      "year": 2025,
+      "status": "En proceso",
+      "dicith": "PI-794-DICIHT",
+      "area": "C. Sociales",
+      "isCIA": false
+    },
+    {
+      "id": "PI-825-DICIHT",
+      "title": "Experiencias de movilidad y accesibilidad de personas con discapacidad física (Centro histórico de Comayagua)",
+      "investigators": [
+        "Carlos N. Alvarenga",
+        "Lourdes A. González",
+        "Eleana F. Oliva",
+        "Marlon A. Maradiaga",
+        "María N. Valladares"
+      ],
+      "year": 2025,
+      "status": "En proceso",
+      "dicith": "PI-825-DICIHT",
+      "area": "C. Sociales",
+      "isCIA": false
+    },
+    {
+      "id": "PT-826-DICITH",
+      "title": "Determinantes de adopción de IA en servicios bancarios digitales (Chatbots)",
+      "investigators": [
+        "Sergio Gerardo Padilla Hernández"
+      ],
+      "year": 2025,
+      "status": "En proceso",
+      "dicith": "PT-826-DICITH",
+      "area": "Economía/IA",
+      "isCIA": false
+    },
+    {
+      "id": "PI-827-DICIHT",
+      "title": "Acceso y calidad de servicios de salud en 5 aldeas (Villa de San Antonio)",
+      "investigators": [
+        "Ruby M. Cruz Coello",
+        "Arnold Houghton",
+        "Lourdes González"
+      ],
+      "year": 2025,
+      "status": "En proceso",
+      "dicith": "PI-827-DICIHT",
+      "area": "Salud",
+      "isCIA": false
+    }
+  ],
+  "articles": [
+    {
+      "id": "Cce-06-2024",
+      "title": "Cienciometría: Retos y tendencias de la Administración Pública",
+      "investigators": [
+        "Rosbym Monico Padilla Ávila"
+      ],
+      "year": 2024,
+      "link": "https://revistas.uautonoma.cl/index.php/jmabs/article/view/2442",
+      "dicith": "Cce-06-2024",
+      "status": "Registrado"
+    },
+    {
+      "id": "Cce-07-2024",
+      "title": "Capítulo 1: Tendencias sobre Administración Pública en WoS y epistemología para la tesis doctoral",
+      "investigators": [
+        "Rosbym Monico Padilla Ávila"
+      ],
+      "year": 2024,
+      "link": "https://www.researchgate.net/publication/377761777_CIC-SEE-2023-Libro_1-Ciencias_politicas_y_sociales",
+      "dicith": "Cce-07-2024",
+      "status": "Registrado"
+    },
+    {
+      "id": "Cce-09-2025",
+      "title": "Calidad de la educación presencial vs virtual (CURC 2020–2023)",
+      "investigators": [
+        "Rosbym Monico Padilla Ávila"
+      ],
+      "year": 2025,
+      "link": "https://www.researchgate.net/publication/380210718_Convivencia_durante_el_retorno_a_la_presencialidad_y_situaciones_de_violencia_escolar_en_instituciones_educativas_de_secundaria_en_Costa_Rica",
+      "dicith": "Cce-09-2025",
+      "status": "Registrado"
+    },
+    {
+      "id": "Cce-05-2024",
+      "title": "Calidad de la educación presencial vs virtual en el CURC (2020–2022)",
+      "investigators": [
+        "Rosbym Monico Padilla Ávila"
+      ],
+      "year": 2024,
+      "link": "https://die.unah.edu.hn/dmsdocument/17346-revista-unah-innov-12vo-numero-2023-completa-pdf",
+      "dicith": "Cce-05-2024",
+      "status": "Registrado"
+    },
+    {
+      "id": "Cce-04-2024",
+      "title": "Modelado de Proceso de gestión administrativa de transferencias de capital a municipalidades",
+      "investigators": [
+        "Rosbym Monico Padilla Ávila"
+      ],
+      "year": 2024,
+      "link": "",
+      "dicith": "Cce-04-2024",
+      "status": "Registrado"
+    },
+    {
+      "id": "Cce-08-2024",
+      "title": "Implementación de una incubadora de Empresas en el CURC",
+      "investigators": [
+        "Rosbym Monico Padilla Ávila"
+      ],
+      "year": 2024,
+      "link": "https://camjol.info/index.php/EyA/article/view/10515",
+      "dicith": "Cce-08-2024",
+      "status": "Registrado"
+    },
+    {
+      "id": "Cce-15-2025",
+      "title": "Gestión de la calidad e inteligencia artificial en la Administración pública",
+      "investigators": [
+        "Rosbym Monico Padilla Ávila"
+      ],
+      "year": 2025,
+      "link": "https://dialnet.unirioja.es/servlet/articulo?codigo=9956940",
+      "dicith": "Cce-15-2025",
+      "status": "Registrado"
+    },
+    {
+      "id": "Cce-02-2024",
+      "title": "Bibliometría en agronegocios y exportaciones: tendencias y crecimiento",
+      "investigators": [
+        "Marlene Sarahi Domínguez Fernández"
+      ],
+      "year": 2024,
+      "link": "https://revistas.uautonoma.cl/index.php/jmabs/article/view/2441/1800",
+      "dicith": "Cce-02-2024",
+      "status": "Registrado"
+    },
+    {
+      "id": "Cce-11-2025",
+      "title": "Human Pose Detection for Robotic-Assisted and Rehabilitation Environments",
+      "investigators": [
+        "Óscar G. Hernández"
+      ],
+      "year": 2025,
+      "link": "https://www.mdpi.com/2076-3417/11/9/4183",
+      "dicith": "Cce-11-2025",
+      "status": "Registrado"
+    },
+    {
+      "id": "Cce-13-2025",
+      "title": "RGBD Data Analysis for Evaluation of Trajectory Planning Algorithms in HRI",
+      "investigators": [
+        "Óscar G. Hernández"
+      ],
+      "year": 2025,
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-21065-5_30",
+      "dicith": "Cce-13-2025",
+      "status": "Registrado"
+    },
+    {
+      "id": "Cce-10-2025",
+      "title": "A kinematic, imaging and EMG dataset for human muscular manipulability index prediction",
+      "investigators": [
+        "Óscar G. Hernández"
+      ],
+      "year": 2025,
+      "link": "https://www.nature.com/articles/s41597-023-02031-3",
+      "dicith": "Cce-10-2025",
+      "status": "Registrado"
+    },
+    {
+      "id": "Cce-03-2024",
+      "title": "Emprendimiento femenino y desarrollo: análisis ANOVA para Honduras",
+      "investigators": [
+        "Susan Lizeth Cruz Rodríguez"
+      ],
+      "year": 2024,
+      "link": "https://www.revistas.espol.edu.ec/index.php/compendium/article/view/1249",
+      "dicith": "Cce-03-2024",
+      "status": "Registrado"
+    },
+    {
+      "id": "Cce-14-2024",
+      "title": "Convergencia de reglas de integración de Trapecio y Simpson para clases no diferenciables",
+      "investigators": [
+        "Pedro Joaquín Madrid Ramírez"
+      ],
+      "year": 2024,
+      "link": "https://camjol.info/index.php/fisica/article/view/16823",
+      "dicith": "Cce-14-2024",
+      "status": "Registrado"
+    },
+    {
+      "id": "rech-2025",
+      "title": "IA en la Administración Pública: teoría y tendencias (Libro)",
+      "investigators": [
+        "Rosbym M. Padilla Ávila"
+      ],
+      "year": 2025,
+      "link": "https://www.amazon.es",
+      "dicith": "—",
+      "status": "Rechazado"
+    },
+    {
+      "id": "Cce-17-2025",
+      "title": "Corrupción y administración pública: análisis de redes (Río Gualcarque)",
+      "investigators": [
+        "Rosbym M. Padilla",
+        "Sergio G. Padilla",
+        "Marvin O. Ponce"
+      ],
+      "year": 2025,
+      "link": "https://revistaenfoques.cl/index.php/revista-uno/article/view/674",
+      "dicith": "Cce-17-2025",
+      "status": "Registrado"
+    },
+    {
+      "id": "pend-2025-1",
+      "title": "Tendencias y desafíos del emprendimiento femenino (revisión bibliográfica)",
+      "investigators": [
+        "Susan Lizeth Cruz Rodríguez"
+      ],
+      "year": 2025,
+      "link": "https://rc.cienciasas.org/index.php/rc/article/view/475/526",
+      "dicith": "",
+      "status": "Pendiente"
+    },
+    {
+      "id": "Cce-18-2025",
+      "title": "Evaluando WOM en retail tecnológico latinoamericano",
+      "investigators": [
+        "Alan Enrique Calix Hernández"
+      ],
+      "year": 2025,
+      "link": "https://revistas.uautonoma.cl/index.php/jmabs/article/view/2689",
+      "dicith": "Cce-18-2025",
+      "status": "Registrado"
+    },
+    {
+      "id": "Cce-20-2025",
+      "title": "Análisis bibliométrico del servicio al cliente en la intención de compra",
+      "investigators": [
+        "Alan Enrique Calix Hernández"
+      ],
+      "year": 2025,
+      "link": "https://rc.cienciasas.org/index.php/rc/article/view/376",
+      "dicith": "Cce-20-2025",
+      "status": "Registrado"
+    },
+    {
+      "id": "Cce-21-2025",
+      "title": "Medición del servicio al cliente con PERVAINCONSA (retail tecnológico latinoamericano)",
+      "investigators": [
+        "Alan Enrique Calix Hernández"
+      ],
+      "year": 2025,
+      "link": "https://revistas.ufps.edu.co/index.php/profundidad/article/view/5054",
+      "dicith": "Cce-21-2025",
+      "status": "Registrado"
+    }
+  ],
+  "manuals": [
+    {
+      "id": "MAN-2023-001",
+      "title": "Coordinaciones Regionales de Investigación Científica",
+      "pdf": "assets/pdfs/QUE-SON-LAS-COORDINACIONES-REGIONALES-DE-INVESTIGACION-CIENTIFICA.pdf",
+      "summary": "Funciones de la CRIC y perfil del Coordinador.",
+      "year": 2023
+    },
+    {
+      "id": "MAN-2025-002",
+      "title": "Comité de Ética (CEI) – Afiche informativo",
+      "pdf": "assets/pdfs/comite de ética de la investigacion campus UNAH comayagua .pdf",
+      "summary": "Rol consultivo, duración de cargos y normativa aplicable.",
+      "year": 2025
+    },
+    {
+      "id": "MAN-2016-003",
+      "title": "Consejo de Investigación del Centro Regional (CI-CR)",
+      "pdf": "assets/pdfs/CONSEJO DE INVESTIGACIÓN CIENTÍFICA DEL CENTRO REGIONAL.pdf",
+      "summary": "Naturaleza, integración, sesiones y funciones del Consejo en Centros Universitarios Regionales.",
+      "year": 2016
+    },
+    {
+      "id": "MAN-2016-004",
+      "title": "Consejos de Investigación Científica de Facultades – Instructivo SICYT",
+      "pdf": "assets/pdfs/INSTRUCTIVO-CONSEJOS-INVESTIGACION-FACULTADES-SICYT-2016.pdf",
+      "summary": "Definición, funciones, composición, periodicidad y procedimiento de conformación del consejo a nivel de Facultad.",
+      "year": 2016
+    },
+    {
+      "id": "MAN-2025-005",
+      "title": "Diagnóstico de Capacidades Investigativas y Tecnológicas del Cuerpo Docente",
+      "pdf": "assets/pdfs/Diagnóstico de Capacidades Investigativas y Tecnológicas del Cuerpo Docente.pdf",
+      "summary": "Línea base (2025) de competencias investigativas, adopción tecnológica y necesidades de capacitación del cuerpo docente en UNAH-Comayagua.",
+      "year": 2025
+    },
+    {
+      "id": "MAN-2016-006",
+      "title": "Grupos de Investigación (GIC) – Creación y funcionamiento",
+      "pdf": "assets/pdfs/Creación y Funcionamiento de Grupos de Investigación Científica (GIC).pdf",
+      "summary": "Definición, funciones, integración, vigencia y pasos para constituir un GIC.",
+      "year": 2016
+    },
+    {
+      "id": "MAN-2023-007",
+      "title": "Manual de Ética en Investigación – UNAH",
+      "pdf": "assets/pdfs/Manual-de-etica-de-investigacion-en-la-UNAH.pdf",
+      "summary": "Principios éticos, consentimiento informado, confidencialidad y funciones del CEI.",
+      "year": 2023
+    },
+    {
+      "id": "MAN-2024-008",
+      "title": "Observatorio Universitario Económico y de Emprendimiento (OEE)",
+      "pdf": "assets/pdfs/Observatorio Universitario Económico y de Emprendimiento (OEE).pdf",
+      "summary": "Objetivos, funciones y productos del observatorio OEE.",
+      "year": 2024
+    },
+    {
+      "id": "MAN-2016-009",
+      "title": "Observatorios Universitarios – Instructivo SICYT",
+      "pdf": "assets/pdfs/INSTRUCTIVO-OBSERVATORIOS-UNIVERSITARIOS-SICYT-2016.pdf",
+      "summary": "Definición, funciones, estructura, financiamiento y flujo para la creación de observatorios universitarios.",
+      "year": 2016
+    },
+    {
+      "id": "MAN-2024-010",
+      "title": "Registro de publicaciones: guía",
+      "pdf": "assets/pdfs/Publicaste un artículo científico No olvides registrarlo.pdf",
+      "summary": "Pasos para registrar artículos/capítulos ante DICIHT.",
+      "year": 2024
+    },
+    {
+      "id": "MAN-2023-011",
+      "title": "Reglamento SICIHT 2023",
+      "pdf": "assets/pdfs/Reglamento SICIHT 2023.pdf",
+      "summary": "Gobernanza de la investigación: Consejos, Coordinaciones, UGIC, observatorios y centros de innovación.",
+      "year": 2023
+    },
+    {
+      "id": "MAN-2023-012",
+      "title": "UGIC – Instructivo de creación y funcionamiento",
+      "pdf": "assets/pdfs/5-Instructivo-para-la-Creacion-y-Funcionamiento-de-UGIC.pdf",
+      "summary": "Cómo crear una UGIC, composición mínima, vigencia, evaluación y funciones clave.",
+      "year": 2023
+    },
+    {
+      "id": "MAN-2024-013",
+      "title": "UGIC – Síntesis normativa",
+      "pdf": "assets/pdfs/LAS UGIC SEGÚN LA NORMATIVA.pdf",
+      "summary": "Funciones, estructura mínima (art. 34–38 SICYT) y responsabilidades de la UGIC.",
+      "year": 2024
+    },
+    {
+      "id": "MAN-2024-014",
+      "title": "UGIC – Guía rápida (Funciones, estructura y pasos de creación)",
+      "pdf": "assets/pdfs/Unidades de Gestión de la Investigación Científica (UGIC).pdf",
+      "summary": "Resumen visual: qué es la UGIC, funciones principales, estructura y pasos para su creación; vigencia y monitoreo por DICIHT.",
+      "year": 2024
+    },
+    {
+      "id": "MAN-2026-015",
+      "title": "Valorización tecnológica integral de especies alimentarias nativas de Honduras",
+      "pdf": "assets/pdfs/Valorización tecnológica integral de especies alimentarias nativas de Honduras.pdf",
+      "summary": "Proyecto ganador de beca: extracción e identificación de compuestos bioactivos en alimentos nativos; resultados esperados (formulaciones, patente, publicación).",
+      "year": 2026
+    },
+    {
+      "id": "MAN-2016-016",
+      "title": "Centros Experimentales y/o de Innovación – Instructivo SICYT",
+      "pdf": "assets/pdfs/INSTRUCTIVO-CENTROS-EXPERIMENTALES-INNOVACION-SICYT-2016.pdf",
+      "summary": "Definición, funciones, composición mínima, financiamiento, seguimiento y pasos para crear Centros Experimentales y/o de Innovación.",
+      "year": 2016
+    }
+  ]
+}
